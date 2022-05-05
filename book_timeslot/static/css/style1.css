@@ -1,3 +1,65 @@
+.masthead123 {
+	position: relative;
+	width: 100%;
+	height: auto;
+	min-height: 35rem;
+	padding: 15rem 0;
+	background: linear-gradient(to bottom, rgba(22, 22, 22, .3) 0, rgba(22, 22, 22, .7) 75%, #161616 100%), url(../images/bg-living.jpg); 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover 
+}
+
+.masthead123 {
+	position: relative;
+	width: 100%;
+	height: auto;
+	min-height: 35rem;
+	padding: 15rem 0;
+	background: linear-gradient(to bottom, rgba(22, 22, 22, .3) 0, rgba(22, 22, 22, .7) 75%, #161616 100%), url(../images/404.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover
+}
+.masthead h3 {
+	font-family: 'Varela Round';
+	font-size: 2.5rem;
+	line-height: 2.5rem;
+	letter-spacing: .8rem;
+	background: -webkit-linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, 0));
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text
+}
+
+.masthead123 h2 {
+	max-width: 20rem;
+	font-size: 1rem
+}
+
+@media (min-width:768px) {
+	.masthead123 h1 {
+		font-size: 4rem;
+		line-height: 4rem
+	}
+}
+
+@media (min-width:992px) {
+	.masthead123 {
+		height: 100vh;
+		padding: 0
+	}
+	.masthead123 h1 {
+		font-size: 6.5rem;
+		line-height: 6.5rem;
+		letter-spacing: .8rem
+	}
+	.masthead123 h2 {
+		max-width: 30rem;
+		font-size: 1.25rem
+	}
+}
 @import url('https://fonts.googleapis.com/css?family=Varela+Round')
 */#mainNav {
 	min-height: 56px;
