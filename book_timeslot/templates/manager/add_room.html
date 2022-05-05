@@ -50,6 +50,11 @@
                                 <label>Shop Name</label>
                                 <input type="text" name="room_name" class="form-control" placeholder="Shop Name" required>
                             </div>
+                            <div class="form-group">
+                                <label>Stock Availability/label>
+                                <input type="text" name="stock" class="form-control" placeholder="Stock Available" required>
+                            </div>
+
                             <button type="submit" class="button btn-success" style="cursor:pointer">Submit</button>
                         </form>
                     </div>
@@ -71,6 +76,7 @@
                                         <tr>
                                             <th>Shop Name</th>
                                             <th>Action</th>
+                                            <th>Available Stock</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -85,6 +91,10 @@
                                                     <input type="submit" class="button btn-warning" style="cursor:pointer;" value="Delete">
                                                 </form>
                                             </td>
+                                            <td>
+                                                <a href="{% url 'manager:create_time_slot' x.pk  %}">{{x.stock}}</a>
+                                            </td>
+                                            
                                         </tr>
                                         {% endfor %}
                                     </tbody>
