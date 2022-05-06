@@ -24,7 +24,7 @@ The public ration distribution service ,over the years ,has seen overcrowding of
   src="my_img/Blank_board (1).png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 
  <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
@@ -32,16 +32,12 @@ The public ration distribution service ,over the years ,has seen overcrowding of
   src="my_img/Website_wireframe.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
->
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 
-<!-- ![My Image](my_img/Blank_board (1).png)
-![My Image](..my_img/Blank_board (1).png)
-![My image](https://drive.google.com/file/d/1-DjUu4OG4VVagh99TUEwiIi4cv6pRpj_/view?usp=sharing)
- -->
+<h3>Link to Demo Video<h3>
 
-<h5>Link to Demo Video<h5>
 https://www.loom.com/share/5507fa562150441c8cf104993e3294b1
-<h5>Link to presentation slides<h5>
+
+<h3>Link to presentation slides<h3>
  https://docs.google.com/presentation/d/1ujjSl7IgV_cqY5YSLNfMqSj8LeXiME_KfCckGzNrKPw/edit?usp=sharing
