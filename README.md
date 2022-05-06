@@ -22,3 +22,5 @@ The public ration distribution service ,over the years ,has seen overcrowding of
    ![Blank board (1)](https://user-images.githubusercontent.com/104891433/167110791-6e9f6bdb-950e-428c-a9be-e827bb9cacd2.png)
  <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
   ![Website wireframe (1)](https://user-images.githubusercontent.com/104891433/167111525-ca7cc19e-011a-4ac8-b891-c8ca695dc0fd.png)
+![Website wireframe (1)](https://user-images.githubusercontent.com/53829554/167115537-a18c93cd-34f1-4ce9-a441-2f5eb458b042.png)
+![Blank board (1)](https://user-images.githubusercontent.com/53829554/167115572-e81fe189-80e0-4dad-b292-69d0f8238cf0.png)
