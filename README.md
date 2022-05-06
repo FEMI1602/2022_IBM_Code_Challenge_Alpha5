@@ -24,7 +24,7 @@ The public ration distribution service ,over the years ,has seen overcrowding of
   src="my_img/Blank_board (1).png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; width=20px; height=40px">
 
 
  <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
@@ -32,7 +32,7 @@ The public ration distribution service ,over the years ,has seen overcrowding of
   src="my_img/Website_wireframe.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; width=20px; height=40px">
 
 
 <h3>Link to Demo Video<h3>
