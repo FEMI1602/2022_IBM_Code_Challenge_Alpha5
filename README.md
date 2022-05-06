@@ -19,7 +19,10 @@ The public ration distribution service ,over the years ,has seen overcrowding of
   <li>SELECTION OF PRODUCTS:Users can select required products from the provided lists..</li>
   </ul>
 <h2>ARCHITECTURE OF THE PROPOSED SYSTEM</h2>  
-   ![Blank board (1)](https://user-images.githubusercontent.com/104891433/167110791-6e9f6bdb-950e-428c-a9be-e827bb9cacd2.png)
+   <!-- ![Blank board (1)](https://user-images.githubusercontent.com/104891433/167110791-6e9f6bdb-950e-428c-a9be-e827bb9cacd2.png) -->
+
+
+
  <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
   
 <img
