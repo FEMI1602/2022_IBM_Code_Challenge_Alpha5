@@ -27,7 +27,7 @@ The public ration distribution service ,over the years ,has seen overcrowding of
 
 
 ![my_img](my_img/Blank_board (1).png)
-<h2>Link to Demo Video<h2>
+<h5>Link to Demo Video<h5>
 https://www.loom.com/share/5507fa562150441c8cf104993e3294b1
-<h2>Link to presentation slides<h2>
+<h5>Link to presentation slides<h5>
  https://docs.google.com/presentation/d/1ujjSl7IgV_cqY5YSLNfMqSj8LeXiME_KfCckGzNrKPw/edit?usp=sharing

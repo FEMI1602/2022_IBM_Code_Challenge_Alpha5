@@ -25,3 +25,4 @@ urlpatterns = [
     path('api/manager/', include("manager.api.urls")),
     path('api/customer/', include("customer.api.urls"))
 ]
+
