@@ -20,16 +20,21 @@ The public ration distribution service ,over the years ,has seen overcrowding of
   </ul>
 <h2>ARCHITECTURE OF THE PROPOSED SYSTEM</h2>  
    <!-- ![Blank board (1)](https://user-images.githubusercontent.com/104891433/167110791-6e9f6bdb-950e-428c-a9be-e827bb9cacd2.png) -->
-
-
-
- <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
-  
 <img
   src="my_img/Blank_board (1).png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 200px">
+
+
+ <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
+  <img
+  src="my_img/Website_wireframe.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+>
+
 
 <!-- ![My Image](my_img/Blank_board (1).png)
 ![My Image](..my_img/Blank_board (1).png)
