@@ -23,8 +23,8 @@ The public ration distribution service ,over the years ,has seen overcrowding of
  <h2>WIREFRAME MODEL OF THE SYSTEM</h2>
   
 
-
-![my_img](my_img/Blank_board (1).png)
+![My Image](my_img/Blank_board (1).png)
+![My Image](..my_img/Blank_board (1).png)
 <h5>Link to Demo Video<h5>
 https://www.loom.com/share/5507fa562150441c8cf104993e3294b1
 <h5>Link to presentation slides<h5>
