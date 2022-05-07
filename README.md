@@ -41,3 +41,11 @@ https://www.loom.com/share/5507fa562150441c8cf104993e3294b1
 
 <h3>Link to presentation slides</h3>
  https://docs.google.com/presentation/d/1ujjSl7IgV_cqY5YSLNfMqSj8LeXiME_KfCckGzNrKPw/edit?usp=sharing
+  
+  <h3> Individual contributions:</h3>
+  <ul>
+   <li>Presentation - Roshnipb and Jewel Jiju</li>
+   <li>UI Design - Muhammed Rashiq</li>
+   <li>Front end and backend development - Femi Shaju </li>
+   <li>CSS styling , Architecture and Wireframe- Jyothi-lj </li>
+  </ul>
